@@ -23,6 +23,7 @@ Project Name | GitHub | See In Action | Stack |Completion Date
 <br>
 
 <br>
+
 ### _Full Stack JavaScript_
 
   
