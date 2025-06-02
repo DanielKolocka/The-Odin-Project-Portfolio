@@ -17,7 +17,7 @@ Project Name | GitHub | See In Action | Stack |Completion Date
 **#1** Recipes | [Code](https://github.com/DanielKolocka/odin-recipes)| [Preview](https://danielkolocka.github.io/odin-recipes/) | HTML5 | March 28, 2025 
 **#2** Landing Page | [Code](https://github.com/DanielKolocka/Website-Landing-Page) | [Preview](https://danielkolocka.github.io/website-landing-page/) | HTML5, CSS3 | April 28, 2025 
 **#3** Rock Paper Scissors | [Code](https://github.com/DanielKolocka/rock-papers-scissors) | [Preview](https://danielkolocka.github.io/rock-papers-scissors/) | JavaScript, HTML5, CSS3, DOM Manipulation | May 14, 2025 
-**#4** Etch-a-Sketch | [Code](https://github.com/DanielKolocka/etch-a-sketch) | [Preview](https://danielkolocka.github.io/etch-a-sketch/) | JavaScript, HTML5, CSS3, DOM Manipulation | June 24, 2025
+**#4** Etch-a-Sketch | [Code](https://github.com/DanielKolocka/etch-a-sketch) | [Preview](https://danielkolocka.github.io/etch-a-sketch/) | JavaScript, HTML5, CSS3, DOM Manipulation | May 24, 2025
 **#5** Calculator | ... | ... | ... | ...
 
 <br>
