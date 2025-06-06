@@ -26,6 +26,6 @@ Project Name | GitHub | See In Action | Stack |Completion Date
 
 ### _Full Stack JavaScript_
 
+Project Name | GitHub | See In Action | Stack |Completion Date
+--- | --- | --- | --- |--- 
   
-
-```This Course is to be started...```
