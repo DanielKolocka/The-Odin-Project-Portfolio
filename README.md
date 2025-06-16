@@ -28,5 +28,5 @@ Project Name | GitHub | See In Action | Stack |Completion Date
 
 Project Name | GitHub | See In Action | Stack |Completion Date
 --- | --- | --- | --- |--- 
-**#1** Sign Up Form | [Code]() | [Preview]() | To Do... | To Do...
+**#1** Sign Up Form | [Code](https://github.com/DanielKolocka/sign-up-form) | [Preview]() | JavaScript, HTML5, CSS3, DOM Manipulation | To Do...
   
