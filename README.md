@@ -14,11 +14,11 @@ Check out my projects below! There is a link to the GitHub Repository as well as
 
 Project Name | GitHub | See In Action | Stack |Completion Date
 --- | --- | --- | --- | --- 
-**#1** Recipes | [Code](https://github.com/DanielKolocka/odin-recipes)| [Preview](https://danielkolocka.github.io/odin-recipes/) | HTML5 | March 28, 2025 
-**#2** Landing Page | [Code](https://github.com/DanielKolocka/Website-Landing-Page) | [Preview](https://danielkolocka.github.io/website-landing-page/) | HTML5, CSS3 | April 28, 2025 
-**#3** Rock Paper Scissors | [Code](https://github.com/DanielKolocka/rock-papers-scissors) | [Preview](https://danielkolocka.github.io/rock-papers-scissors/) | JavaScript, HTML5, CSS3, DOM Manipulation | May 14, 2025 
-**#4** Etch-a-Sketch | [Code](https://github.com/DanielKolocka/etch-a-sketch) | [Preview](https://danielkolocka.github.io/etch-a-sketch/) | JavaScript, HTML5, CSS3, DOM Manipulation | May 24, 2025
-**#5** Calculator | [Code](https://github.com/DanielKolocka/odin-calculator) | [Preview](https://danielkolocka.github.io/odin-calculator/) | JavaScript, HTML5, CSS3, DOM Manipulation | June 1, 2025
+**#1** Recipes | [Code](https://github.com/DanielKolocka/odin-recipes)| [Preview](https://danielkolocka.github.io/odin-recipes/) | HTML5, CSS3 | March 28, 2025 
+**#2** Landing Page | [Code](https://github.com/DanielKolocka/Website-Landing-Page) | [Preview](https://danielkolocka.github.io/website-landing-page/) | HTML5, CSS3 (Flex) | April 28, 2025 
+**#3** Rock Paper Scissors | [Code](https://github.com/DanielKolocka/rock-papers-scissors) | [Preview](https://danielkolocka.github.io/rock-papers-scissors/) | JavaScript, HTML5, CSS3 (Flex), DOM Manipulation | May 14, 2025 
+**#4** Etch-a-Sketch | [Code](https://github.com/DanielKolocka/etch-a-sketch) | [Preview](https://danielkolocka.github.io/etch-a-sketch/) | JavaScript, HTML5, CSS3 (Flex), DOM Manipulation | May 24, 2025
+**#5** Calculator | [Code](https://github.com/DanielKolocka/odin-calculator) | [Preview](https://danielkolocka.github.io/odin-calculator/) | JavaScript, HTML5, CSS3 (Flex), DOM Manipulation | June 1, 2025
 
 <br>
 
@@ -29,4 +29,5 @@ Project Name | GitHub | See In Action | Stack |Completion Date
 Project Name | GitHub | See In Action | Stack |Completion Date
 --- | --- | --- | --- |--- 
 **#1** Sign Up Form | [Code](https://github.com/DanielKolocka/sign-up-form) | [Preview](https://danielkolocka.github.io/sign-up-form/) | HTML5, CSS3, DOM Manipulation | June 24, 2025
+**#2** Admin Dashboard | In Progress... | In Progress... | HTML5, CSS3 (Grid), DOM Manipulation | In Progress...
   
