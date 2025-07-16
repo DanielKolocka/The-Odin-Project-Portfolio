@@ -29,5 +29,5 @@ Project Name | GitHub | See In Action | Stack |Completion Date
 Project Name | GitHub | See In Action | Stack |Completion Date
 --- | --- | --- | --- |--- 
 **#1** Sign Up Form | [Code](https://github.com/DanielKolocka/sign-up-form) | [Preview](https://danielkolocka.github.io/sign-up-form/) | HTML5, CSS3, DOM Manipulation | June 24, 2025
-**#2** Admin Dashboard | In Progress... | In Progress... | HTML5, CSS3 (Grid), DOM Manipulation | In Progress...
+**#2** Admin Dashboard | [Code](https://github.com/DanielKolocka/admin-dashboard) | [Preview](https://danielkolocka.github.io/admin-dashboard/) | HTML5, CSS3 (Grid), DOM Manipulation | July 15, 2025
   
