@@ -32,4 +32,5 @@ Project Name | GitHub | See In Action | Stack |Completion Date
 **#2** Admin Dashboard | [Code](https://github.com/DanielKolocka/admin-dashboard) | [Live Preview](https://danielkolocka.github.io/admin-dashboard/) | HTML5, CSS3 (Grid/Flex), DOM Manipulation | July 15, 2025
 **#3** Library | [Code](https://github.com/DanielKolocka/library) | [Live Preview](https://danielkolocka.github.io/library/) | Javascript, HTML5, CSS3 (Grid/Flex), DOM Manipulation | August 5, 2025
 **#4** Tic Tac Toe | [Code](https://github.com/DanielKolocka/tic-tac-toe) | [Live Preview](https://danielkolocka.github.io/tic-tac-toe/) | Javascript, HTML5, CSS3 (Grid/Flex), DOM Manipulation, Module and Factory pattern Object Creation | August 27, 2025
+**#5** Restaurant Page | [Code](https://github.com/DanielKolocka/restaurant-page) | [Live Preview](https://danielkolocka.github.io/restaurant-page/) | Javascript, npm, Webpack, HTML5, CSS3 (Flex), DOM Manipulation | September 5, 2025
   
