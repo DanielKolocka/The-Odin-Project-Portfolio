@@ -39,6 +39,7 @@ Check out my projects below! There is a link to the GitHub Repository as well as
 | **#8** Recursion | [Code](https://github.com/DanielKolocka/recursion) |  | Data Structures & Algorithms | October 20, 2025 |
 | **#9** Linked Lists | [Code](https://github.com/DanielKolocka/linked-lists) |  | Data Structures & Algorithms | October 24, 2025 |
 | **#10** HashMap | [Code](https://github.com/DanielKolocka/hash-map) |  | Data Structures & Algorithms | October 30, 2025 |
+| **#11** Balanced Binary Search Tree | [Code](https://github.com/DanielKolocka/binary-search-tree) |  | Data Structures & Algorithms | November 8, 2025 |
 
 <br>
 
