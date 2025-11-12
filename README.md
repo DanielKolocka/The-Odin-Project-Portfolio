@@ -36,10 +36,11 @@ Check out my projects below! There is a link to the GitHub Repository as well as
 | **#5** Restaurant Page | [Code](https://github.com/DanielKolocka/restaurant-page) | [Live Preview](https://danielkolocka.github.io/restaurant-page/) | Javascript, npm, Webpack, HTML5, CSS3 (Flex), DOM Manipulation | September 5, 2025 |
 | **#6** Todo List | [Code](https://github.com/DanielKolocka/todo-list) | [Live Preview](https://danielkolocka.github.io/todo-list/) | Javascript, npm, Webpack, HTML5, CSS3 (Grid/Flex), DOM Manipulation | September 18, 2025 |
 | **#7** Weather App | [Code](https://github.com/DanielKolocka/weather-app) | [Live Preview](https://danielkolocka.github.io/weather-app/) | Javascript, API's, npm, HTML5, CSS3 (Grid/Flex), DOM Manipulation | October 13, 2025 |
-| **#8** Recursion | [Code](https://github.com/DanielKolocka/recursion) |  | Data Structures & Algorithms | October 20, 2025 |
-| **#9** Linked Lists | [Code](https://github.com/DanielKolocka/linked-lists) |  | Data Structures & Algorithms | October 24, 2025 |
-| **#10** HashMap | [Code](https://github.com/DanielKolocka/hash-map) |  | Data Structures & Algorithms | October 30, 2025 |
-| **#11** Balanced Binary Search Tree | [Code](https://github.com/DanielKolocka/binary-search-tree) |  | Data Structures & Algorithms | November 8, 2025 |
+| **#8** Recursion | [Code](https://github.com/DanielKolocka/recursion) |  | Data Structures & Algorithms (Recursion) | October 20, 2025 |
+| **#9** Linked Lists | [Code](https://github.com/DanielKolocka/linked-lists) |  | Data Structures & Algorithms (Linked Lists) | October 24, 2025 |
+| **#10** HashMap | [Code](https://github.com/DanielKolocka/hash-map) |  | Data Structures & Algorithms (Hash Maps) | October 30, 2025 |
+| **#11** Balanced Binary Search Tree | [Code](https://github.com/DanielKolocka/binary-search-tree) |  | Data Structures & Algorithms (BBST) | November 8, 2025 |
+| **#12** Knights Travails | [Code](https://github.com/DanielKolocka/Chess-Knights-Travails) |  | Data Structures & Algorithms (Graphs) | November 11, 2025 |
 
 <br>
 
